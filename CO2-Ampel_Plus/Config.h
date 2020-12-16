@@ -76,7 +76,7 @@
 
 //--- Lichtsensor ---
 #define LICHT_DUNKEL       20   //<20 -> dunkel
-#define LICHT_INTERVALL    1800 //1-60000s (Sensorpruefung)
+#define LICHT_INTERVALL    900 //1-60000s (Sensorpruefung)
 
 #define TEMPERATURE_OFFSET 13
 
